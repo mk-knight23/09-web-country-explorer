@@ -1,13 +1,30 @@
 {
   "name": "06-country-explorer",
-  "private": true,
-  "version": "1.0.0",
+  "private": false,
+  "version": "2.0.0",
+  "description": "Interactive country explorer app with search, filter, and detailed country information using REST Countries API.",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit"
   },
+  "keywords": [
+    "countries",
+    "explorer",
+    "api",
+    "react",
+    "typescript",
+    "tailwind"
+  ],
+  "author": "Kazi Musharraf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-knight23/06-country-explorer.git"
+  },
+  "homepage": "https://06-country-explorer.vercel.app",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
