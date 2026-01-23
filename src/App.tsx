@@ -141,7 +141,7 @@ function App() {
             </AnimatePresence>
 
             <footer className="py-12 border-t border-slate-200 text-center">
-                <p className="text-slate-400 font-medium">Powered by REST Countries API • 30 Projects Rebuild Wave</p>
+                <p className="text-slate-400 font-medium">Powered by REST Countries API • ExploGeo Modernization 2026</p>
             </footer>
         </div>
     );
