@@ -1,8 +1,8 @@
 {
-  "name": "06-country-explorer",
+  "name": "09-web-geographic-explorer",
   "private": false,
   "version": "2.1.0",
-  "description": "Interactive country explorer app with React 19, TypeScript, Tailwind CSS v4, and REST Countries API.",
+  "description": "Interactive geographic explorer with map-based country discovery, powered by React 19, TypeScript, and Tailwind CSS v4.",
   "type": "module",
   "scripts": {
     "lint": "eslint .",
@@ -15,9 +15,10 @@
     "test:coverage": "vitest --coverage"
   },
   "keywords": [
-    "countries",
+    "geographic",
     "explorer",
-    "api",
+    "countries",
+    "map",
     "react",
     "typescript",
     "tailwind"
@@ -26,9 +27,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mk-knight23/06-country-explorer.git"
+    "url": "git+https://github.com/mk-knight23/09-web-geographic-explorer.git"
   },
-  "homepage": "https://mk-knight23.github.io/06-country-explorer/",
+  "homepage": "https://mk-knight23.github.io/09-web-geographic-explorer/",
   "dependencies": {
     "axios": "^1.13.3",
     "clsx": "^2.1.1",

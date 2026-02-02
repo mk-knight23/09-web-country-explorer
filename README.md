@@ -1,4 +1,4 @@
-# 06-country-explorer
+# 09 Web Geographic Explorer
 
 ✨ A high-fidelity geographic data explorer providing real-time insights into nations across the globe with advanced filtering, error handling, and accessibility features.
 
@@ -59,8 +59,8 @@ npm run test:coverage  # Run tests with coverage report
 - [Deployment Guide](docs/DEPLOY.md)
 
 ## Live Deployment
-- **GitHub Pages**: [https://mk-knight23.github.io/06-country-explorer/](https://mk-knight23.github.io/06-country-explorer/)
-- **Vercel**: [https://06-country-explorer.vercel.app](https://06-country-explorer.vercel.app)
+- **GitHub Pages**: [https://mk-knight23.github.io/09-web-geographic-explorer/](https://mk-knight23.github.io/09-web-geographic-explorer/)
+- **Vercel**: [https://09-web-geographic-explorer.vercel.app](https://09-web-geographic-explorer.vercel.app)
 - **Status**: 🟢 Live
 - **Last Updated**: 2026-02-02
 
